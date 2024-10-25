@@ -4,10 +4,13 @@ Primero hemos creado un repositorio en GitHub en el que nos hemos añadido como 
 
 Reflexión sobre el proceso:
 - ¿Cómo fue la colaboración utilizando control de versiones en el desarrollo web?
+
     Ha sido una experiencia positiva y enriquecedora para poder expandir nuestros conocimientos sobre el trabajo en diferentes ramas. Hemos intentado colaborar todo lo posible con el otro compañero y aúnque hemos tenido contratiempos, hemos podido solucionarlo sin mucha complicaicón.
 - ¿Qué desafíos encontrasteis al trabajar en diferentes partes de la página?
+
     Sin duda lo más complejo es hacer el Merge, donde encuentras distintos errores que hay que solucionar. Nos hemos puesto de acuerdo para decidir qué versión del trabajo nos quedamos.
 - ¿Qué aprendieron sobre la importancia de la separación entre HTML y CSS?
+
     La separación es importante para que esté todo mucho más ordenado (o capsulado), y así es más fácil buscar apartados para modificarlos.
 
 
