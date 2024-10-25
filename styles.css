@@ -1,9 +1,10 @@
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Poppins;
     margin: 0;
     padding: 0;
     background-color: rgb(255, 255, 255);
+    text-align: justify;
 }
 
 header {
@@ -22,23 +23,22 @@ main {
 }
 
 img {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    display: block;
+    border-radius: 5%;
+
+
     margin: 0 auto 20px;
 }
 
 a {
     color: #333;
     text-decoration: none;
-    background-color: #fff;
+    background-color: #a6db79;
     padding: 10px 20px;
     border-radius: 5px;
 }
 
 a:hover {
-    background-color: #999;
+    background-color: #639835;
     color: #fff;
 }
 
